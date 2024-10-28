@@ -1,3 +1,5 @@
+"""auhtor:Vijilee George Kurian
+   Description:demo atm"""
 balance_amount =  1000
 while True:
     print("\n1.\tcheck balance")
