@@ -1,3 +1,5 @@
+'''author:vijilee george
+date:21-11-24'''
 list_1=[28,13,6]
 list_2=[2,34,5,7]
 combined_list=list_1+list_2
